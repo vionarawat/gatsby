@@ -1,7 +1,7 @@
-name: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+name: Geek
+bio: I am a very keen person who develop websites for the masses. I am learning
+  to code these days 🤦‍♂️
+featured: true
 avatar: ./avatars/dennis-brotzky.jpg
 social:
   - url: https://unsplash.com
@@ -9,4 +9,3 @@ social:
   - url: https://github.com
   - url: https://github.com
   - url: https://github.com
-featured: true
