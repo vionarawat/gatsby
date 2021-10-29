@@ -3,7 +3,7 @@ title: " COAL CRISES IN THE WORLD"
 author: Mig
 date: 2021-06-29
 excerpt: Due to the increase in the monsoon this year
-hero: images/hunter-so-wre-sh6sgg8-unsplash.jpg
+hero: images/artyom-korshunov-nwbyxwvn-j0-unsplash.jpg
 ---
 The Climate crisis is the real and the biggest issue which is further causing other crises. Even though India is the second-largest producer of coal, India faced a coal shortage. The recent crisis of coal caused disruption in power generation in many states like Bihar, Jharkhand, Punjab etc. and they faced power cuts or blackouts due to the shortage in coal production and power generation. On October 14, the lowest ever reserve of four days was left in the power plants in years.
 
