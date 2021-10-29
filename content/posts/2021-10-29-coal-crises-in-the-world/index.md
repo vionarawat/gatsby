@@ -1,5 +1,5 @@
 ---
-title: COAL CRISES IN THE WORLD
+title: Coal Crises In The World
 author: Mig
 date: 2021-06-29
 excerpt: Due to the increase in the monsoon this year
@@ -11,4 +11,7 @@ The Climate crisis is the real and the biggest issue which is further causing ot
 Position of other countries in the crisis:
 
 1. Recently, the temperature of the European Union reduced too much that increased the demand for gas for which coal was required and therefore international prices of coal increased.
+
+# I am doing good
+## This is the final try
 
