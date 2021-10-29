@@ -1,6 +1,6 @@
 ---
 title: My first post using Novela by Narative
-author: Geek
+author: Mig
 date: 2019-04-30
 excerpt: With the growing community interest in Gatsby, we hope to create more
   resources that make it easier for anyone to grasp the power of this incredible
