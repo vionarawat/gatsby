@@ -1,5 +1,5 @@
 ---
-title: " COAL CRISES IN THE WORLD"
+title: COAL CRISES IN THE WORLD
 author: Mig
 date: 2021-06-29
 excerpt: Due to the increase in the monsoon this year
