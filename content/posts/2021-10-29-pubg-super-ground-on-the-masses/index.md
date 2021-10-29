@@ -1,9 +1,11 @@
 ---
 title: My first post using Novela by Narative
-author: Dennis Brotzky
+author: Mig
 date: 2019-04-30
+excerpt: With the growing community interest in Gatsby, we hope to create more
+  resources that make it easier for anyone to grasp the power of this incredible
+  tool.
 hero: ./images/2541192.webp
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
